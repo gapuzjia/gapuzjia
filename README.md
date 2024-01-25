@@ -1,0 +1,5 @@
+- 🤍 Hi!! I’m @gapuzjia (Jia)
+- 🌱 I’m currently learning React!
+- ✉️ You can reach me at jiannagapuz@gmail.com or @jiaa.gg on instragram!
+- 🌿 I’m looking to collaborate on any cute projects on Java, C, Python or Flutter
+- 💾 Fun fact: I absolutely love plants
