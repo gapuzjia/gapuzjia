@@ -1,4 +1,4 @@
-- 🤍 Hi!! I’m @gapuzjia (Jia)
+- 🤍 Hi!! I’m Jia
 - 🌱 I’m currently learning React and C!
 - ✉️ You can reach me at jiannagapuz@gmail.com or @jiaa.gg on instragram!
 - 🌿 I’m looking to collaborate on any cute projects on Java, C, Python or Flutter
