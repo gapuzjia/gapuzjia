@@ -1,5 +1,5 @@
 - 🤍 Hi!! I’m Jia!
-- 🌱 I’m currently learning React and C!
+- 🌱 I’m currently learning React, C, and MIPS Assembly!
 - ✉️ You can reach me at jiannagapuz@gmail.com or @jiaa.gg on instragram!
 - 🌿 I’m looking to collaborate on any cute projects on Java, C, Python or Flutter
 - 💾 Fun fact: I absolutely love plants
