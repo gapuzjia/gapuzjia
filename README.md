@@ -1,5 +1,5 @@
 - 🤍 Hi!! I’m Jia!
-- 🌱 I’m currently learning Python for data analysis!
+- 🌱 I’m currently doing machine learning HPC research for protein structure prediction in Python!
 - ✉️ You can reach me at jiannagapuz@gmail.com or @jiaa.gg on instragram!
 - 🌿 I’m looking to collaborate on any cute projects on Java, C, Python or Flutter
 - 💾 Fun fact: I absolutely love plants
