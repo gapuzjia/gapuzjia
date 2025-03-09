@@ -1,5 +1,5 @@
 - 🤍 Hello!! I’m Jia!
-- 🌱 I’m currently developing a dream log app on Expo
+- ☁️ I’m currently developing a dream log app on Expo
 - ✉️ You can reach me at jiannagapuz@gmail.com or @jiaa.gg on instragram!
 - 🌿 I’m looking to collaborate on any cute projects with machine learning HPC research for protein structure prediction!
 - 💾 Fun fact: I absolutely love plants
