@@ -1,7 +1,7 @@
-🤍 Hello!! I’m Jia!
-🌿 I’m a senior at SDSU studying CS
-☁️ Currently doing research on ORB-SLAM3/OASIS, a visual SLAM system studying execution time prediction, focusing on how processing time can be dynamically estimated in SLAM pipelines.
-💾 Fun fact: I absolutely love plants
+🤍 Hello!! I’m Jia!  
+🌿 I’m a senior at SDSU studying CS  
+☁️ Currently doing research on ORB-SLAM3/OASIS, a visual SLAM system studying execution time prediction, focusing on how processing time can be dynamically estimated in SLAM pipelines.  
+💾 Fun fact: I absolutely love plants  
 
 
 ## 🌐 Socials:
